@@ -3,7 +3,7 @@
 // @namespace    https://github.com/infe1/sysu-lms-assistant
 // @version      2.0
 // @description  自动播放LMS视频+自动切超清；多阶段测验自动调用LLM(OpenAI兼容)答题+提交+满分检查+重考；遇讨论页跳过；反焦点检测(切后台仍计时)。
-// @author       infe1
+// @author       Infe1
 // @match        *://lms.sysu.edu.cn/*
 // @homepage     https://github.com/infe1/sysu-lms-assistant
 // @supportURL   https://github.com/infe1/sysu-lms-assistant/issues
