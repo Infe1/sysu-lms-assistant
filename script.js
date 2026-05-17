@@ -40,7 +40,7 @@
     const SKIP_FORUM_DELAY = 2000;      // 讨论页等待2秒跳过
     const VIDEO_END_WAIT = 3000;        // 视频结束后等待3秒再刷新页面（防止跳过测验）
     const LLM_TIMEOUT = 30000;          // LLM 请求超时 30 秒
-    const MAX_LLM_RETRY = 4;            // LLM 调用最大重试次数
+    const MAX_LLM_RETRY = 2;            // LLM 调用最大重试次数，虽然还没什么用
     const AUTO_SUBMIT_QUIZ = true;      // 是否自动提交测验
     const CONFIRM_BEFORE_SUBMIT = false; // 提交前是否弹窗确认
     // ==================================================
