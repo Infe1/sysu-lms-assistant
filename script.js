@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         中山大学 LMS 学习助手 LLM答题
+// @name         中山大学 LMS 学习助手 LLM 答题版
 // @namespace    https://github.com/infe1/sysu-lms-assistant
 // @version      2.0
 // @description  自动播放LMS视频+自动切超清；多阶段测验自动调用LLM(OpenAI兼容)答题+提交+满分检查+重考；遇讨论页跳过；反焦点检测(切后台仍计时)。
